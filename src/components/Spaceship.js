@@ -4,7 +4,7 @@ import React from 'react';
 class Spaceship extends React.component {
     render() {
       return (
-        
+
       )
     }
 }
